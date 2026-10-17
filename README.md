@@ -79,11 +79,7 @@ Currently exploring **humanoid simulation in MuJoCo**, using an existing Unitree
 
 <br>
 
-A robot moves, but its monitoring interface says it is standing still.
-
-What evidence would let us decide which information to trust — and whether it is safe to continue?
-
-Questions like this connect my interests in cybersecurity, robotics and business risk.
+A robot moves, but its monitoring interface says it is standing still. What evidence would let us decide which information to trust — and whether it is safe to continue?
 
 </details>
 
