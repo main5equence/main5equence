@@ -1,136 +1,65 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Dominika Jakubek — Cybersecurity, AI, Robotics and Business" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EDE9FE,50:C4B5FD,100:A78BFA&height=210&section=header&text=Hello,%20I'm%20Dominika&fontSize=46&fontColor=292238&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%C2%B7%20AI%20%C2%B7%20Robotics%20%C2%B7%20Business&descSize=17&descAlignY=59" width="100%" alt="Hello, I'm Dominika" />
+
+### Curious about technology, interested in what comes next.
+
+I explore how intelligent systems work, how they can fail,  
+and what that means for the people and businesses relying on them.
 
 <br>
 
-**Independent cybersecurity researcher exploring how technical threats become operational and business decisions.**
-
-[Portfolio ↗](https://dominika-ai.vercel.app/) &nbsp; · &nbsp; [OrchiCyb ↗](https://github.com/orchicyb) &nbsp; · &nbsp; [DigitalSophy ↗](https://www.instagram.com/digitalsophy/)
+[**Meet Dominika.AI ↗**](https://dominika-ai.vercel.app/) &nbsp; · &nbsp; [**OrchiCyb ↗**](https://github.com/orchicyb) &nbsp; · &nbsp; [**DigitalSophy ↗**](https://www.instagram.com/digitalsophy/)
 
 </div>
 
 <br>
 
-<table>
-<tr>
-<td width="43%" align="center" valign="middle">
-<a href="https://dominika-ai.vercel.app/"><img src="assets/dominika-ai.gif" width="330" alt="Meet Dominika.AI — animated preview of my portfolio" /></a>
-<br>
-<sub>Animated preview · Click to open my portfolio ↗</sub>
-</td>
-<td width="57%" valign="middle">
+## A little about me
 
-### Hi, I'm Dominika.
+I have a background in philosophy, cybersecurity, computer science, IT project management and B2B tech sales. My interests sit between **cybersecurity, AI, robotics and business**. I enjoy turning questions into prototypes, exploring unfamiliar technologies and connecting technical details with the bigger picture.
 
-I'm interested in what happens when software, intelligent systems and the physical world meet — and how we decide whether to trust them.
+I run **[OrchiCyb](https://github.com/orchicyb)**, where I develop research projects around threat intelligence, AI security and cyber-physical systems.
 
-My background spans **philosophy, computer science, IT project management and B2B technology sales**. It shapes both the tools I build and the questions I ask.
+Through **[DigitalSophy](https://hashnode.com/@digitalsophy)**, I explore the human side of technology — from philosophy and AI to our relationships with robots.
 
-At **[OrchiCyb](https://github.com/orchicyb)**, I develop experimental tools, simulations and research notes connecting cybersecurity with operational context and business risk.
+## What I'm exploring
 
-Through **[DigitalSophy](https://www.instagram.com/digitalsophy/)**, I explore the human side of technology: AI, philosophy and human–robot interaction.
+🌸 **Cyber threat intelligence** - connecting signals, context and decisions.
 
-</td>
-</tr>
-</table>
+🤖 **Robotics security** — understanding movement, telemetry and trust.
 
-<br>
+🔮 **AI security** — investigating emerging risks and experimenting with AI-assisted analysis.
 
-## Research in progress
+🕸️ **Knowledge graphs & digital twins** — making complex relationships easier to explore.
 
-**01 / Threat intelligence**  
-Connecting threat signals with organisational assets, dependencies and decisions.
+💡 **Technology & business** — translating technical questions into operational and strategic decisions.
 
-**02 / AI security**  
-Exploring emerging threats and the role of AI-assisted analysis in security research.
 
-**03 / Cyber-physical systems**  
-Investigating questions of trust, telemetry and operational risk in robotics and critical infrastructure.
+## A few things I'm working on
 
-**04 / Digital twins & knowledge graphs**  
-Using simulations and connected data to make technical relationships easier to investigate and explain.
+| Project | Focus |
+| :--- | :--- |
+| [**OrchiCyb AI ATTACK**](https://github.com/orchicyb/OrchiCyb-AI-Attack) | Threat intelligence, knowledge graphs and AI-assisted analysis |
+| [**Critical Twin**](https://github.com/orchicyb/Orchicyb-Critical-Twin) | Digital twins and cyber threats to critical infrastructure |
+| [**Local AI Threat Analysis**](https://github.com/main5equence/local-ai-driven-cyber-threat-analysis) | Network monitoring and locally hosted language models |
+| [**MITM Railway Attack Simulator**](https://github.com/main5equence/mitm-railway-attack-simulator) | Simulation that demonstrates how Man-in-the-Middle (MITM) attacks |
+| [**Dominika.AI**](https://dominika-ai.vercel.app/) | My portfolio and digital counterpart |
 
-<br>
-
-## Selected projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### OrchiCyb AI ATTACK
-<sub>THREAT INTELLIGENCE · KNOWLEDGE GRAPHS</sub>
-
-An experimental project exploring relationships between threats, security frameworks and organisational risk through AI-assisted analysis.
-
-[Explore the project ↗](https://github.com/orchicyb/OrchiCyb-AI-Attack)
-
-</td>
-<td width="50%" valign="top">
-
-### Critical Twin
-<sub>CRITICAL INFRASTRUCTURE · DIGITAL TWINS</sub>
-
-Exploring how digital twins can help explain cyber threats to critical infrastructure and their potential operational consequences.
-
-[Explore the project ↗](https://github.com/orchicyb/Orchicyb-Critical-Twin)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Local AI Threat Analysis
-<sub>NETWORK MONITORING · LOCAL LLMS</sub>
-
-Experiments with network monitoring and incident analysis using Ollama, Scapy, Streamlit and locally hosted language models.
-
-[Explore the repository ↗](https://github.com/main5equence/local-ai-driven-cyber-threat-analysis)
-
-</td>
-<td width="50%" valign="top">
-
-### Humanoid Simulation
-<sub>MUJOCO · ROBOTICS SECURITY</sub>
-
-Exploring a Unitree humanoid simulation using an existing model and locomotion policy as a starting point for cybersecurity experiments.
-
-[Follow research updates ↗](https://www.instagram.com/orchicyb/)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Questions behind the work
-
-> A robot moves. Its telemetry says it is stationary. What evidence would you trust?
+Currently exploring **humanoid simulation in MuJoCo**, using an existing Unitree model and locomotion policy as a starting point for cybersecurity experiments.
 
 <details>
-<summary><b>Open the research notebook ↓</b></summary>
+<summary><b>A question I keep coming back to…</b></summary>
 
 <br>
 
-- When do two sources offer independent evidence, and when do they repeat the same upstream data?
-- How can a simulation reveal the limits of a monitoring setup?
-- Which threat signals should change an operational decision?
-- What does an organisation need to verify before resuming work?
-- How does our relationship with technology change when it can act in the physical world?
+A robot moves, but its monitoring interface says it is standing still.
 
-These questions guide ongoing exploration. Projects include prototypes and research concepts at different stages of development.
+What evidence would let us decide which information to trust — and whether it is safe to continue?
+
+Questions like this connect my interests in cybersecurity, robotics and business risk.
 
 </details>
-
-<br>
-
-## Find me elsewhere
-
-**[Dominika.AI](https://dominika-ai.vercel.app/)** — my portfolio and digital counterpart.  
-**[OrchiCyb on GitHub](https://github.com/orchicyb)** — research projects and documentation.  
-**[OrchiCyb on Instagram](https://www.instagram.com/orchicyb/)** — experiments and research updates.  
-**[DigitalSophy](https://www.instagram.com/digitalsophy/)** — philosophy, AI and the human side of technology.
 
 <br>
 
@@ -138,8 +67,12 @@ These questions guide ongoing exploration. Projects include prototypes and resea
 
 <div align="center">
 
-**SIGNAL → EXPOSURE → IMPACT → DECISION**
+**Find me beyond GitHub**
 
-<sub>Research · Prototypes · Simulations · Notes</sub>
+[Portfolio](https://dominika-ai.vercel.app/) · [OrchiCyb Instagram](https://www.instagram.com/orchicyb/) · [DigitalSophy Instagram](https://www.instagram.com/digitalsophy/)
+
+<br>
+
+*Always curious, always exploring.*
 
 </div>
