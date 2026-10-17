@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Dominika Jakubek — Cybersecurity, AI, Robotics and Business">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#faf8ff"/><stop offset=".6" stop-color="#ece7fa"/><stop offset="1" stop-color="#d5c7f2"/></linearGradient>
+<radialGradient id="orb"><stop stop-color="#fff" stop-opacity=".8"/><stop offset="1" stop-color="#a78bda" stop-opacity=".15"/></radialGradient>
+</defs>
+<rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+<g fill="none" stroke="#9982c2" stroke-width="1" opacity=".45">
+<circle cx="1030" cy="160" r="116"/><ellipse cx="1030" cy="160" rx="165" ry="66" transform="rotate(-30 1030 160)"/><ellipse cx="1030" cy="160" rx="165" ry="66" transform="rotate(40 1030 160)"/>
+<path d="M913 160L1030 44L1146 160L1030 276ZM913 160H1146M1030 44V276"/>
+</g>
+<circle cx="1030" cy="160" r="79" fill="url(#orb)" stroke="#fff" stroke-opacity=".7"/>
+<g fill="#8d72bb"><circle cx="1030" cy="44" r="5"/><circle cx="1146" cy="160" r="5"/><circle cx="913" cy="160" r="5"/><circle cx="1030" cy="276" r="5"/></g>
+<g font-family="Arial, Helvetica, sans-serif" fill="#282337">
+<text x="64" y="77" font-size="13" letter-spacing="4">INDEPENDENT RESEARCH / CONNECTED THINKING</text>
+<text x="60" y="153" font-size="62" font-weight="700" letter-spacing="-2">Dominika Jakubek</text>
+<text x="64" y="200" font-size="22" fill="#625775">Cybersecurity · AI · Robotics · Business</text>
+<path d="M64 234H780" stroke="#c8b9df"/>
+<text x="64" y="270" font-size="14" letter-spacing="2" fill="#74628f">TECHNICAL CURIOSITY. OPERATIONAL CONTEXT.</text>
+</g>
+</svg>
