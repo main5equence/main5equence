@@ -89,12 +89,6 @@ A robot moves, but its monitoring interface says it is standing still. What evid
 
 <div align="center">
 
-**Find me beyond GitHub**
-
-[OrchiCyb Instagram](https://www.instagram.com/orchicyb/) · [DigitalSophy Instagram](https://www.instagram.com/digitalsophy/)
-
-<br>
-
 *Always curious, always exploring.*
 
 </div>
