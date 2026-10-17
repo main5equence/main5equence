@@ -24,7 +24,7 @@
 <br>
 
 <a href="https://dominika-ai.vercel.app/"><strong>Meet Dominika.AI ↗</strong></a>
-&nbsp; · &nbsp;
+&nbsp; 
 
 <br><br>
 
