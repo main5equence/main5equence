@@ -1,15 +1,41 @@
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EDE9FE,50:C4B5FD,100:A78BFA&height=210&section=header&text=Hello,%20I'm%20Dominika&fontSize=46&fontColor=292238&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%C2%B7%20AI%20%C2%B7%20Robotics%20%C2%B7%20Business&descSize=17&descAlignY=59" width="100%" alt="Hello, I'm Dominika" />
-
-### Curious about technology, interested in what comes next.
-
-I explore how intelligent systems work, how they can fail,  
-and what that means for the people and businesses relying on them.
 
 <br>
 
-[**Meet Dominika.AI ↗**](https://dominika-ai.vercel.app/) &nbsp; · &nbsp; [**OrchiCyb ↗**](https://github.com/orchicyb) &nbsp; · &nbsp; [**DigitalSophy ↗**](https://www.instagram.com/digitalsophy/)
+<p>✦ &nbsp; HELLO WORLD! &nbsp; ✦</p>
+
+<a href="https://dominika-ai.vercel.app/">
+  <img
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=36&duration=3500&pause=2000&color=89CFF0&center=true&vCenter=true&width=1000&height=150&lines=Hi,+I'm+Dominika!;Welcome+to+my+profile!&repeat=true"
+  width="100%"
+  alt="Hi, I'm Dominika! Welcome to my profile!"
+  />
+</a>
+
+<p>
+  <strong>Cybersecurity · AI · Robotics · Business</strong>
+</p>
+
+<p>
+  Exploring intelligent systems, emerging threats and the human side of technology.
+</p>
+
+<br>
+
+<a href="https://dominika-ai.vercel.app/"><strong>Meet Dominika.AI ↗</strong></a>
+&nbsp; · &nbsp;
+
+<br><br>
+
+<p>✧ &nbsp; ˚ &nbsp; ⋆ &nbsp; ✦ &nbsp; ⋆ &nbsp; ˚ &nbsp; ✧</p>
+
+</div>
+
+
+### Curious about technology, interested in what comes next.
+
+I explore how intelligent systems work, how they can fail, and what that means for the people and businesses relying on them.
 
 </div>
 
