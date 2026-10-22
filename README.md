@@ -69,7 +69,7 @@ Through **DigitalSophy** ( [DigitalSophy Blog](https://hashnode.com/@digitalsoph
 | [**OrchiCyb AI ATTACK**](https://github.com/orchicyb/OrchiCyb-AI-Attack) | Threat intelligence, knowledge graphs and AI-assisted analysis |
 | [**Critical Twin**](https://github.com/orchicyb/Orchicyb-Critical-Twin) | Digital twins and cyber threats to critical infrastructure |
 | [**Local AI Threat Analysis**](https://github.com/main5equence/local-ai-driven-cyber-threat-analysis) | Network monitoring and locally hosted language models |
-| [**MITM Railway Attack Simulator**](https://github.com/main5equence/mitm-railway-attack-simulator) | Simulation that demonstrates how Man-in-the-Middle (MITM) attacks |
+| [**MITM Railway Attack Simulator**](https://github.com/main5equence/mitm-railway-attack-simulator) | Simulation that demonstrates Man-in-the-Middle (MITM) attacks |
 | [**Dominika.AI**](https://dominika-ai.vercel.app/) | My portfolio and digital counterpart |
 
 Currently exploring **humanoid simulation in MuJoCo**, using an existing Unitree model and locomotion policy as a starting point for cybersecurity experiments.
