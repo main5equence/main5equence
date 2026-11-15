@@ -5,7 +5,7 @@
 
 <p>✦ &nbsp; HELLO WORLD! &nbsp; ✦</p>
 
-<a href="https://dominika-ai.vercel.app/">
+<a href="https://www.dominika-ai.com">
   <img
   src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=36&duration=3500&pause=2000&color=89CFF0&center=true&vCenter=true&width=1000&height=150&lines=Hi,+I'm+Dominika!;Welcome+to+my+profile!&repeat=true"
   width="100%"
