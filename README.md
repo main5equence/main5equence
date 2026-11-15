@@ -23,7 +23,7 @@
 
 <br>
 
-<a href="https://dominika-ai.vercel.app/"><strong>Meet Dominika.AI ↗</strong></a>
+<a href="https://dominika-ai.vercel.app/"><strong>Meet Dominika.AI </strong></a>
 &nbsp; 
 
 <br><br>
@@ -40,27 +40,6 @@ I explore how intelligent systems work, how they can fail, and what that means f
 </div>
 
 <br>
-
-## A little about me
-
-I have a background in philosophy, cybersecurity, computer science, IT project management and B2B tech sales. My interests sit between **cybersecurity, AI, robotics and business**. I enjoy turning questions into prototypes, exploring unfamiliar technologies and connecting technical details with the bigger picture.
-
-I run **OrchiCyb** ( [OrchiCyb GitHub](https://github.com/orchicyb) and [OrchiCyb Instagram](https://www.instagram.com/orchicyb/) ), where I develop research projects around threat intelligence, AI security and cyber-physical systems.
-
-Through **DigitalSophy** ( [DigitalSophy Blog](https://hashnode.com/@digitalsophy) and [DigitalSophy Instagram](https://www.instagram.com/digitalsophy/) ), I explore the human side of technology — from philosophy and AI to our relationships with robots.
-
-## What I'm exploring
-
-🌸 **Cyber threat intelligence** - connecting signals, context and decisions.
-
-🤖 **Robotics security** — understanding movement, telemetry and trust.
-
-🔮 **AI security** — investigating emerging risks and experimenting with AI-assisted analysis.
-
-🕸️ **Knowledge graphs & digital twins** — making complex relationships easier to explore.
-
-💡 **Technology & business** — translating technical questions into operational and strategic decisions.
-
 
 ## A few things I'm working on
 
@@ -85,10 +64,3 @@ A robot moves, but its monitoring interface says it is standing still. What evid
 
 <br>
 
----
-
-<div align="center">
-
-*Always curious, always exploring.*
-
-</div>
