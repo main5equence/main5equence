@@ -23,7 +23,7 @@
 
 <br>
 
-<a href="https://dominika-ai.vercel.app/"><strong>Meet Dominika.AI </strong></a>
+<a href="https://www.dominika-ai.com/"><strong>Meet Dominika.AI </strong></a>
 &nbsp; 
 
 <br><br>
